@@ -1,9 +1,3 @@
 # Component-Design
 
 This is a template for creating a component design system.
-
-NOTE:
-
-DO NOT USE THIS FOR PRODUCTION. THIS IS ONLY FOR DEVELOPMENT PURPOSES.
-DO NOT PUSH SUSPICIOUS FILES
-DO NOT PUSH ANYTHING THAT IS NOT SAFE
