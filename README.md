@@ -1,4 +1,4 @@
-# Full Stack Project Setup
+# Component Design Project Setup
 
 This guide provides instructions to set up both the **backend** and **frontend** for this project.
 
